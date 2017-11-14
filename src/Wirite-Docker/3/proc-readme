@@ -1,0 +1,14 @@
+/proc/N 　 PID 为 N 的 进程 信息
+/proc/N/cmdline 　 进程 启动 命令
+/proc/N/cwd 　 链接 到 进程 当前工作 目录
+/proc/N/environ 　 进程 环境 变量 列表
+/proc/N/exe 　 链接 到 进程 的 执行 命令 文件
+/proc/N/fd 　 包含 进程 相关 的 所有 文件 描述 符
+/proc/N/maps 　 与 进程 相关 的 内存 映射 信息
+/proc/N/mem 　 指 代 进程 持有 的 内存， 不 可读
+/proc/N/root 　 链接 到 进程 的 根 目录
+/proc/N/stat 　 进程 的 状态
+/proc/N/statm 　 进程 使用 的 内存 状态
+/proc/N/status 　 进程 状态 信息， 比 stat/ statm 更具 可读性
+/proc/self/ 　 链接 到 当前 正在 运行 的 进程
+
